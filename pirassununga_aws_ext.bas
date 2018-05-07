@@ -2,6 +2,7 @@ Sub wth_pirassununga()
 '
 ' Pirassununga WTH creation for Crop Modelling
 '-21.961517, -47.470232
+        'from : http://www.agrariasusp.com.br/agrariasusp01/estacao.html
 
 '
 Dim m(12) As String
